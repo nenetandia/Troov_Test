@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Liste",
+    "path": "/Liste",
+    "component": "C:\\\\Users\\\\HP\\\\Documents\\\\gitprojects\\\\App_Troov\\\\FrontApp\\\\pages\\\\Liste.vue",
+    "chunkName": "pages/Liste"
+  },
+  {
+    "name": "Objet",
+    "path": "/Objet",
+    "component": "C:\\\\Users\\\\HP\\\\Documents\\\\gitprojects\\\\App_Troov\\\\FrontApp\\\\pages\\\\Objet.vue",
+    "chunkName": "pages/Objet"
+  },
+  {
+    "name": "Profile",
+    "path": "/Profile",
+    "component": "C:\\\\Users\\\\HP\\\\Documents\\\\gitprojects\\\\App_Troov\\\\FrontApp\\\\pages\\\\Profile.vue",
+    "chunkName": "pages/Profile"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "C:\\\\Users\\\\HP\\\\Documents\\\\gitprojects\\\\App_Troov\\\\FrontApp\\\\pages\\\\Register.vue",
+    "chunkName": "pages/Register"
+  },
+  {
+    "name": "UpdateObjet",
+    "path": "/UpdateObjet",
+    "component": "C:\\\\Users\\\\HP\\\\Documents\\\\gitprojects\\\\App_Troov\\\\FrontApp\\\\pages\\\\UpdateObjet.vue",
+    "chunkName": "pages/UpdateObjet"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\HP\\\\Documents\\\\gitprojects\\\\App_Troov\\\\FrontApp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

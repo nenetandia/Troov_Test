@@ -1,0 +1,36 @@
+.profile {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+    margin-top: 100px;
+}
+
+html,
+body {
+    height: 100%
+}
+
+body {
+    /* place-items: center; */
+    background: #AB47BC
+}
+
+.card {
+    color: #fff;
+    width: 350px;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #9a40a9, #b74cc9);
+    box-shadow: 20px 20px 60px #913ca0, -20px -20px 60px #c552d8;
+    border: none
+}
+
+.item_button {
+    color: #fff;
+    padding: 10px;
+    border: none;
+    outline: 0 !important;
+    border-radius: 50px;
+    background: #AB47BC;
+    box-shadow: 28px 28px 57px #933da2, -28px -28px 57px #c351d6
+}

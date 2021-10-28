@@ -1,0 +1,78 @@
+.card_one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 24px;
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+.card_two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 24px;
+}
+
+.card_three {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 24px;
+    margin-top: 100px;
+}
+
+.tab {
+    margin-top: 100px;
+}
+
+.submitButton {
+    width: 120px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #b700ff;
+    text-decoration: none;
+}
+
+#top_icon {
+    width: 120px;
+    height: 120px;
+    border: none;
+    -moz-border-radius: 75px;
+    -webkit-border-radius: 75px;
+    border-radius: 75px;
+}
+
+.capitain {
+    float: left;
+    width: 200px;
+    height: 400px;
+}
+
+.registerButton:hover {
+    background-color: #DC3545;
+}
+
+.registerButton {
+    Color: white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 grey;
+    text-decoration: none;
+    text-align: center;
+}
+
+.submitButton:hover {
+    background-color: #DC3545;
+}
+
+.signButton {
+    Color: white;
+}
+
+.signButton:hover {
+    background-color: #DC3545;
+}
